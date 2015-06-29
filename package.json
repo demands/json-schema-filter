@@ -1,7 +1,7 @@
 {
-  "name": "json-schema-filter",
+  "name": "json-schema-strip-unknown",
   "version": "0.1.4",
-  "description": "Filters (removes) objects from document based on passed json-schema",
+  "description": "Strips unknown values from a json-schema (forked from json-schema-filter to fix bugs)",
   "main": "index.js",
   "devDependencies": {
     "chai": "^1.9.1",
