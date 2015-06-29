@@ -1,6 +1,6 @@
 {
   "name": "json-schema-strip-unknown",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "Strips unknown values from a json-schema (forked from json-schema-filter to fix bugs)",
   "main": "index.js",
   "devDependencies": {
